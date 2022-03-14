@@ -1,0 +1,4 @@
+mnist_png/training mnist_png/testing white_pixels min_distance model1
+mnist_png/training mnist_png/testing white_pixels k-NN model2
+mnist_png/training mnist_png/testing histogram_row k-NN model3
+mnist_png/training mnist_png/testing histogram_row min_distance model4
